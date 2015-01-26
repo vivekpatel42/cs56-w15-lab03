@@ -1,4 +1,7 @@
-cs56-w15-lab03
-==============
+lab03
+=====
 
-Lab 03 for Vivek Patel (working alone)
+lab03 for CS56, S13 
+
+* javadoc: http://www.cs.ucsb.edu/~yourCSILUserName/cs56/lab03/javadoc
+
